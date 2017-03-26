@@ -1,0 +1,17 @@
+{
+  "name": "elasticlunr_test",
+  "version": "1.0.0",
+  "description": "\"testing performance of elasticlunr\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "raj pratim",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.4",
+    "elasticlunr": "^0.9.5",
+    "futures": "^2.3.3",
+    "performance": "^1.1.1"
+  }
+}
