@@ -20,7 +20,7 @@ run with `node IndexFromPouchDB.js`
 ## Visualization
 
  ![](/data_ploting.png)
-` 
+## Searched Texts used for this visualization 
 "highly coreographic performance" 								
 "Beyonce" 			  											
 "University"			  										 
@@ -50,4 +50,4 @@ run with `node IndexFromPouchDB.js`
 "years and 48 days" 											
 "Manning was 29"												
 "Newton was 26"													
-"Beyonce married to"				`
+"Beyonce married to"		
