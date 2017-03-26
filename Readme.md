@@ -1,4 +1,4 @@
-##Basic elasticlunr implemntation for searching
+## Basic elasticlunr implemntation for searching
 
 This is a basic search engine implemented for analysing performance of Elasticlunr vs seach-index.js
 
